@@ -1,0 +1,32 @@
+.front {
+  animation: pulse 3s ease 0s infinite;
+}
+
+.design {
+  animation: pulse 3s ease 3s infinite;
+}
+
+.back {
+  animation: pulse 3s ease 6s infinite;
+}
+
+.front:hover,
+.design:hover,
+.back:hover {
+  transform: scale(1.1);
+  filter: saturate(0.2);
+  animation: transform;
+}
+
+@keyframes pulse {
+  0% {
+    filter: saturate(0.2);
+  }
+
+  65% {
+    filter: saturate(1);
+  }
+  100% {
+    filter: saturate(0.2);
+  }
+}

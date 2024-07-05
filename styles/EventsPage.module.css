@@ -1,0 +1,92 @@
+.cardHolder{
+    padding: 10px 10px;
+    height: max-content;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    gap: 10px;
+    width: calc(100% - 20px);
+    justify-content: space-evenly;
+}
+
+.Title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* transform: translateY(-100%); */
+}
+
+.Title h1{
+    font-size: 30px;
+    padding: 4px 25px;
+    background-color: #7c7c7c7d;
+    color: #FFD600;
+    border-radius: 40px;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    background: linear-gradient(94.75deg,#d19a08,#fedb7e 27.6%,#eac460 50%,#d19a08 66.15%,#d19a08);
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.wrapper{
+    padding: 1rem 1rem;
+    width: calc(100% - 2rem);
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    font-weight: 500;
+    font-size: 24px;
+    gap: 30px;
+}
+
+.category{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.category button{
+    width: 200px;
+    height: 40px;
+    min-height: fit-content;
+    background-color: rgba(255, 249, 249, 0.1);
+    border: 0;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    transition: background-color .5s;
+    padding: 5px 5px;
+}
+
+.category button:hover{
+    background-color: rgba(255, 249, 249, 0.3);
+}
+
+.category button:nth-child(1){
+    border-right: 1px solid white;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.category button:nth-child(3){
+    border-left: 1px solid white;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+
+@media (max-width:850px) {
+    .Title{
+        transform: translateY(-50%);
+    }
+}
+
+
+
+
+@media (max-width:640px) {
+    .Title{
+        transform: translateY(-20%);
+    }
+}

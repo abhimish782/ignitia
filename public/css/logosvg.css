@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "digitalfont";
+  src: url("./digital-7.ttf");
+}
+
+#logo path:nth-child(1) {
+    animation: outline 3s ease-in infinite;
+}   
+
+@keyframes outline {
+    0%{
+        stroke-dasharray: 50px;
+        stroke-dashoffset: 0px;
+    }
+    50%{
+        stroke-dashoffset: 100px;
+        stroke-dasharray: 500px;
+    }
+    100%{
+        stroke-dashoffset: 100px;
+        stroke-dasharray: 500px;
+    }
+}
+
+.countdown{
+  height: 10vh;
+  font-size: 64px;
+  display: flex;
+}

@@ -1,0 +1,340 @@
+.cardholder{
+    width: calc(100% - 4rem);
+    min-height: fit-content;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    padding: 2rem 2rem;
+    justify-content: center;
+    align-items: center;
+    overflow: visible;
+}
+
+
+
+.Card{
+    padding: 1rem 1rem;
+    width: 200px;
+    height: 350px;
+    background-color: rgb(25, 26, 36);
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 0px 20px rgb(120, 120, 120);
+    border-radius: 20px;
+    gap: 10px;
+    transition: transform .3s;
+    cursor: pointer;
+}
+
+.Card img{
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper{
+    margin-top: 6rem;
+}
+
+.ImageHolder{
+    width: 95%;
+    height: 70%;
+}
+
+.Name{
+    font-size: 20px;
+    text-align: center;
+}
+
+.Position{
+    font-size: 16px;
+    color: rgba(227, 226, 226, 0.536);
+    text-align: center;
+}
+
+.Card:hover{
+    transform: scale(1.05);
+}
+
+
+.width100{
+    width: 100%;
+}
+
+.WrapperContact{
+    width: 100%;
+    height: fit-content;
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    max-width: min(1000px , 95%);
+    flex-direction: column;
+    /* gap: 20px; */
+}
+
+
+
+.form , .phone , .email , .address{
+    background-color: rgb(197 197 197 / 18%);
+    border-radius: 20px;
+    gap: 5px;
+    /* box-shadow: 0px 0px 10px rgb(255, 255, 255); */
+}
+
+
+.phone span, .email span, .address span{
+    color: rgb(161, 161, 161);
+}
+
+
+.phone img, .email img, .address img{
+    width: 100%;
+    height: 100%;
+}
+
+.imageBorder{
+    width: 30px;
+    height: 30px;
+    padding: 8px 8px;
+    border-radius: 50%;
+    border: 2px dashed #FFD600;
+}
+
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 600px;
+    /* background-color: #000000; */
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 1rem;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form button{
+    padding: 8px 30px;
+    border: 0;
+    border-radius: 20px;
+    font-family: "Roboto Mono";
+    font-weight: 800;
+}
+
+.placewrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: calc(100% - 2rem);
+    padding: 1rem 1rem;
+}
+
+.parentContact{
+    /* background-color: rgba(129, 129, 129, 0.312); */
+    display: flex;
+    width: calc(50%);
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.email , .phone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: calc(50% - 2rem);
+    padding: 1rem 1rem;
+}
+
+.address{
+    /* background-color: rgba(129, 129, 129, 0.312); */
+    width: calc(50% - 2rem);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 1rem;
+    flex-direction: column;
+}
+
+.fields{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.fields input , .fields textarea{
+    border-radius: 10px;
+    border: 0;
+    font-size: 18px;
+    outline: none;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-family: "Roboto Mono";
+}
+
+
+.fields input:nth-child(1){
+    width: calc(45% - 10px);
+}
+.fields input:nth-child(2){
+    width: calc(45% - 10px);
+}
+.fields input:nth-child(3){
+    width: calc(100%);
+}
+.fields input:nth-child(4){
+    width: calc(100%);
+}
+.fields textarea{
+    width: calc(100%);
+    height: 100px;
+}
+
+
+.Title h1{
+    font-size: 44px;
+    font-size: 30px;
+    padding: 4px 25px;
+    background-color: #7c7c7c7d;
+    color: #FFD600;
+    border-radius: 40px;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    background: linear-gradient(94.75deg,#d19a08,#fedb7e 27.6%,#eac460 50%,#d19a08 66.15%,#d19a08);
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.btnwrap{
+    display: flex;
+    gap: 20px;
+}
+
+.textareDiv{
+    color: #000000;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    height: fit-content;
+}
+
+.textareDiv textarea{
+    width: calc(100% - 2rem);
+    background-color: rgba(129, 129, 129, 0.312);
+    outline: none;
+    border: 0;
+    padding: 1rem 1rem;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
+
+.wrapper{
+    padding: 1rem 1rem;
+    width: calc(100% - 2rem);
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    font-weight: 500;
+    font-size: 24px;
+    gap: 30px;
+}
+
+.category{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    z-index: 4;
+}
+
+.category button{
+    width: 200px;
+    height: 40px;
+    min-height: fit-content;
+    background-color: rgba(255, 249, 249, 0.1);
+    border: 0;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    transition: background-color .5s;
+    padding: 5px 5px;
+}
+
+.category button:hover{
+    background-color: rgba(255, 249, 249, 0.3);
+}
+
+.category button:nth-child(1){
+    border-right: 1px solid white;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.category button:nth-child(3){
+    border-left: 1px solid white;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+@media (max-width: 1000px) {
+    .WrapperContact{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .placewrap{
+        max-width: 600px;
+        width: calc(100% - 2rem);
+        flex-direction: column;
+        align-items: normal;
+    }
+    .parentContact{
+        flex-direction: column;
+        width: calc(100%);
+        align-items: normal;
+        justify-content: normal;
+    }
+    .email , .phone , .address{
+        height: 100%;
+        width: calc(100% - 2rem);
+    }
+}
+
+@media (max-width: 900px) {
+    .placewrap{
+        width: calc(100% - 2rem);
+        flex-direction: column;
+        align-items: normal;
+    }
+    .form{
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .parentContact{
+        flex-direction: column;
+    }
+    .email , .phone{
+        width: calc(100% - 2rem);
+    }
+}
+
+@media (max-width: 450px) {
+    .fields{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .fields input {
+        width: calc(100% - 1rem) !important;
+    }
+
+    .fields textarea {
+        width: calc(100% - 1rem) !important;
+    }
+}

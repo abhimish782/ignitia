@@ -1,0 +1,36 @@
+{
+  "name": "ignitia",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "postbuild": "next-sitemap",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@lottiefiles/lottie-player": "^1.7.1",
+    "@lottiefiles/react-lottie-player": "^3.5.2",
+    "@next/font": "13.1.6",
+    "@stichiboi/react-elegant-mouse-trail": "^0.1.8",
+    "axios": "^1.3.2",
+    "cloudinary": "^1.33.0",
+    "fs": "^0.0.1-security",
+    "glightbox": "^3.2.0",
+    "html-react-parser": "^3.0.9",
+    "jquery": "^3.6.3",
+    "mongoose": "^6.9.1",
+    "next": "13.1.6",
+    "next-sitemap": "^3.1.52",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-lottie-player": "^1.5.4",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.28",
+    "typescript": "4.9.5"
+  }
+}

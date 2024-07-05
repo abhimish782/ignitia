@@ -1,0 +1,97 @@
+.main{
+    width: calc(100% - 20px);
+    height: 100vh;
+    position: absolute;
+    left: 0;
+    top:0;
+    background-color: rgb(241, 241, 241);
+    z-index: 11;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px 10px;
+    color: black;
+    background-image: url("/img/EasterEgg.jpg");
+    background-size: cover;
+    font-family: "Easter Egg";
+}
+
+.close{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white;
+}
+
+.formDiv{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    width: 90%;
+    z-index: 5;
+}
+
+.formDiv form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.formDiv input{
+    width: calc(100% - 20px);
+    height: 40px;
+    font-size: 24px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: 0;
+    font-family: "Easter Egg";
+    background-color: rgba(255, 255, 255, 0.432);
+}
+
+.submitEaster{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.formDiv button{
+    padding: 7px 30px;
+    font-size: 24px;
+    border-radius: 20px;
+    border: 0;
+    background-color: rgb(182, 255, 127);
+    box-shadow: 0px 0px 0px rgb(134, 134, 134);   
+    transition: all .5s;
+    font-family: "Easter Egg";
+}
+
+.formDiv button:hover{
+    box-shadow: 0px 0px 20px rgb(0, 0, 0);   
+}
+
+.title{
+    font-size: 82px;
+    margin-bottom: 20px;
+}
+
+.confetti{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.esportsLogo{
+    top: 20px;
+    width: 400px;
+}

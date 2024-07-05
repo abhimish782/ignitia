@@ -1,0 +1,112 @@
+[
+    {
+     "Id": 1,
+     "Name": "Sankalp Khanna",
+     "Designation": "President",
+     "Phone": 7007546463,
+     "Url": "/image/committee/SankalpKhanna3-4.jpg"
+    },
+    {
+     "Id": 2,
+     "Name": "Himanshi Shukla",
+     "Designation": "Vice President",
+     "Email": "contact2himanshi05@gmail.com",
+     "Phone": 7355153603,
+     "Url": "/image/committee/HimanshiShukla3-4.jpg"
+    },
+    {
+     "Id": 3,
+     "Name": "Komal Anshwani",
+     "Designation": "Vice President",
+     "Email": "komalanshwani234@gmail.com",
+     "Phone": 9335775900,
+     "Url": "/image/committee/KomalAnshwani3-4.jpg"
+    },
+    {
+     "Id": 4,
+     "Name": "Raj Pandey",
+     "Designation": "Technical Head",
+     "Email": "rajpandey52002@gmail.com",
+     "Phone": 6387857122,
+     "Url": "/image/committee/Rajpandey3-4.jpg"
+    },
+    {
+     "Id": 5,
+     "Name": "Vidit Pandey",
+     "Designation": "Technical Head",
+     "Email": "viditpandey06@gmail.com",
+     "Phone": 7355258137,
+     "Url": "/image/committee/Vidit3-4.jpeg"
+    },
+    {
+     "Id": 6,
+     "Name": "Harshita Rao",
+     "Designation": "Secretary",
+     "Email": "harshitarao1405@gmail.com",
+     "Phone": "7389284347",
+     "Url": "/image/committee/HarshitaRao3-4.jpg"
+    },
+    {
+     "Id": 7,
+     "Name": "Sneha pandey",
+     "Designation": "Cultural head",
+     "Email": "pandeysneha96500@gmail.com",
+     "Phone": 7518282268,
+     "Url": "/image/committee/SnehaPandey3-4.jpg"
+    },
+    {
+     "Id": 8,
+     "Name": "Vanshika Singh",
+     "Designation": "Cultural Head",
+     "Phone": 7408446737,
+     "Url": "/image/committee/VanshikaSingh3-4.jpg"
+    },
+    {
+     "Id": 9,
+     "Name": "Pranjali Jaiswal",
+     "Designation": "Cultural head",
+     "Email": "pranjalijaiswal2720@gmail.com",
+     "Phone": 8957853907,
+     "Url": "/image/committee/PranjaliJaiswal3-4.jpg"
+    },
+    {
+     "Id": 10,
+     "Name": "Aditi Sharma",
+     "Designation": "Treasurer",
+     "Email": "aditisharma7505@gmail.com",
+     "Phone": 7880325804,
+     "Url": "/image/committee/AditiSharma3-4.jpg"
+    },
+    {
+     "Id": 11,
+     "Name": "Anshika shukla",
+     "Designation": "Treasurer",
+     "Email": "anshikashuklaanshikashukla44@gmail.com",
+     "Phone": 9548415789,
+     "Url": "/image/committee/AnshikaShukla3-4.jpg"
+    },
+    {
+     "Id": 12,
+     "Name": "Rashi Mishra",
+     "Designation": "Promotional head",
+     "Email": "Rashimishra10000@gmail.com",
+     "Phone": 7309157879,
+     "Url": "/image/committee/RashiMishra3-4.jpg"
+    },
+    {
+     "Id": 13,
+     "Name": "Aditya Kumar",
+     "Designation": "Sports Head",
+     "Email": "at12345943@gmail.com",
+     "Phone": 8931993768,
+     "Url": "/image/committee/AdityaKumar3-4.jpg"
+    },
+    {
+     "Id": 14,
+     "Name": "Vaishnavi Chauhan",
+     "Designation": "Sports Head",
+     "Email": "vaishnaviiiichauhan@gmail.com",
+     "Phone": 7355098202,
+     "Url": "/image/committee/VaishnaviChauhan3-4.jpg"
+    }
+   ]

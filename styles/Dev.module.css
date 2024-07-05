@@ -1,0 +1,421 @@
+.devContainer {
+  padding: 5px 60px;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+  overflow-x: hidden;
+  height: 50vh;
+  position: relative;
+}
+
+.dvmlogo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  display: flex;
+  justify-content: center;
+  /* z-index: 10; */
+}
+
+.dvmlogo img {
+  width: 25vw;
+}
+
+.hoverTxt {
+  position: absolute;
+}
+
+.hoverTxt img {
+  width: 100%;
+}
+
+#hoverTxt1 {
+  top: 5%;
+  left: 5%;
+}
+
+#hoverTxt2 {
+  bottom: 5%;
+  right: 5%;
+}
+
+.developers {
+  margin: auto;
+  position: relative;
+}
+
+.devLetters {
+  width: 50vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 12vh;
+}
+
+.devLetter {
+  height: 80%;
+}
+
+.vectors {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.vector {
+  position: absolute;
+  width: 3.5%;
+}
+
+#vector1 {
+  top: -24%;
+  left: -1%;
+}
+
+#vector2 {
+  top: -13%;
+  left: 18%;
+}
+
+#vector3 {
+  top: -13%;
+  left: 75%;
+}
+
+#vector4 {
+  top: 104%;
+  left: -5%;
+}
+
+#vector5 {
+  top: 97%;
+  left: 48%;
+}
+
+#vector6 {
+  top: 109%;
+  left: 66%;
+}
+
+#vector7 {
+  top: 90%;
+  left: 98%;
+}
+
+.devIcons {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.devIcon {
+  position: absolute;
+  width: 9%;
+}
+
+#front {
+  top: -30%;
+  right: 60px;
+}
+
+#design {
+  top: -65%;
+  left: 50%;
+}
+
+#back {
+  top: 71%;
+  left: 22%;
+}
+
+.model {
+  position: absolute;
+  width: 75vw;
+  height: 90vh;
+  /* width: 100vw;
+    height: 100vh; */
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+#frontModel {
+  display: none;
+}
+.container{
+  width: 100%;
+  margin-top: -100px;
+}
+
+.CardSection {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  scroll-snap-type: y mandatory;
+  margin-top: 0px;
+}
+
+.CardDiv {
+  height: fit-content;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin-top: 80vh; */
+  gap: 40px;
+  margin-bottom: 40px;
+  scroll-snap-align: start;
+  
+}
+
+.CardHolder {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.Card {
+  position: relative;
+  width: calc(250px - 10px);
+  height: 400px;
+  background-image: linear-gradient(
+    to right,
+    #a80562,
+    #aa1c80,
+    #a5329f,
+    #9747be,
+    #7b5cdc,
+    #7b5cdc,
+    #7b5cdc,
+    #7b5cdc,
+    #9747be,
+    #a5329f,
+    #aa1c80,
+    #a80562
+  );
+  padding: 5px 5px;
+  background-size: 400% 400%;
+  animation: gradient 5s linear infinite;
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px rgba(255, 255, 255, 0.555);
+  transition: all .3s;
+  z-index: 5;
+}
+
+
+
+
+.CardLandScape {
+  position: relative;
+  width: calc(350px - 10px);
+  height: 400px;
+  background-image: linear-gradient(
+    to right,
+    #a80562,
+    #aa1c80,
+    #a5329f,
+    #9747be,
+    #7b5cdc,
+    #7b5cdc,
+    #7b5cdc,
+    #7b5cdc,
+    #9747be,
+    #a5329f,
+    #aa1c80,
+    #a80562
+  );
+  padding: 5px 5px;
+  background-size: 400% 400%;
+  animation: gradient 5s linear infinite;
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px rgba(255, 255, 255, 0.555);
+  transition: all .3s;
+  z-index: 5;
+}
+
+
+
+
+
+
+.Card:hover{
+  box-shadow: -7px 7px 10px rgba(255, 255, 255, 0.74);
+}
+
+.Card img {
+  width: 100%;
+  height: 260px;
+  background-color: #3a90e0;
+  border-radius: 10px;
+}
+
+
+
+
+
+.CardLandScape:hover{
+  box-shadow: -7px 7px 10px rgba(255, 255, 255, 0.74);
+}
+
+.CardLandScape img {
+  width: 100%;
+  height: 260px;
+  background-color: #3a90e0;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+.CardInner {
+  padding: 15px 15px;
+  background: black;
+  height: calc(100% - 30px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.CardInner div {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+.title {
+  text-align: center;
+  font-size: 44px;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .devLetters {
+    width: 60vw;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .devLetters {
+    width: 70vw;
+  }
+
+  .devLetter {
+    height: 75%;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .model {
+    width: 100vw;
+    height: 100vh;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .devLetters {
+    width: 75vw;
+  }
+
+  .devLetter {
+    height: 65%;
+  }
+
+  .hoverTxt {
+    width: 50%;
+  }
+  .devIcons {
+    width: 90%;
+  }
+
+  .devIcon {
+    width: 10%;
+    transform: translate(20px, 20px) !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .dvmlogo img {
+    width: 30vw;
+  }
+  #front img{
+    width: 40px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .devLetters {
+    width: 80vw;
+  }
+
+  .devLetter {
+    height: 55%;
+  }
+
+  .devContainer {
+    padding: 40px 0px;
+  }
+
+  .devIcons {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .devLetter {
+    height: 45%;
+  }
+
+  .dvmlogo img {
+    width: 40vw;
+  }
+
+  .hoverTxt {
+    width: 60%;
+  }
+
+  #hoverTxt1 {
+    top: 10%;
+  }
+
+  #hoverTxt1 {
+    bottom: 10%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .devLetters {
+    width: 85vw;
+  }
+
+  .devLetter {
+    height: 35%;
+  }
+}

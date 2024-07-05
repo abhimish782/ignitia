@@ -1,0 +1,34 @@
+[
+    {
+        "Title":"Partner",
+        "Data":[
+            {
+                "ID":0,
+                "Name":"SBI Bank",
+                "Desig":"Platinum Sponsor",
+                "Url":"/image/SBI.png"
+            },
+            {
+                "ID":1,
+                "Name":"HDFC Bank",
+                "Url":"/image/HDFC1.png"
+
+            },
+            {
+                "ID":2,
+                "Name":"ICICI Bank",
+                "Url":"/image/ICICI.png"
+            },
+            {
+                "ID":3,
+                "Name":"Desi Palette",
+                "Url":"/image/DesiPalette.jpeg"
+            },
+            {
+                "ID":4,
+                "Name":"Ruchi Agnihotri",
+                "Url":"/image/Ruchi.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+.wrapper{
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    font-family: "CedarvilleCursive";
+    font-size: 34px;
+}
+
+@media (max-width:640px) {
+    .box{
+        font-size: 20px;
+    }
+}

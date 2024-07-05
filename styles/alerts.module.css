@@ -1,0 +1,172 @@
+.section-title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.section-title h2 {
+  font-size: 34px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  padding: 8px 20px;
+  margin: 0;
+  background: #7c7c7c7d;
+  color: #FFD600;
+  display: inline-block;
+  text-transform: uppercase;
+  border-radius: 50px;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background: linear-gradient(94.75deg, #d19a08, #fedb7e 27.6%, #eac460 50%, #d19a08 66.15%, #d19a08);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+
+.parent {
+  display: flex;
+  min-height: 100vh;
+  width: calc(100% - 4rem);
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 2rem;
+  /* padding-top: 150px; */
+  gap: 20px;
+}
+
+.alertdiv {
+  width: calc(100% - 2rem);
+  background-color: transparent;
+  padding: 1rem 1rem;
+  border: 0;
+  border: 2px solid #d19a08;
+  cursor: pointer;
+  overflow: auto;
+  backdrop-filter: blur(3px);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: all .2s;
+  border-radius: 20px;
+}
+
+.alertdiv div:nth-child(1) {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.alertdiv div:nth-child(2) {
+  width: calc(100% - 60px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  padding-left: 30px;
+  box-shadow: 0px 0px 00px white;
+}
+
+.alertdiv:hover {
+  box-shadow: 0px 0px 20px white;
+  transform: scale(1.01);
+}
+
+.signin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 400px;
+  width: 95%;
+  flex-direction: column;
+  gap: 30px;
+  background-color: rgba(0, 0, 0, 0.404);
+  padding: 2rem 1rem;
+  border-radius: 20px;
+}
+
+.form {
+  --border-height: 1px;
+  --border-before-color: rgba(221, 221, 221, 0.39);
+  --border-after-color: #5891ff;
+  --input-hovered-color: #4985e01f;
+
+  position: relative;
+  width: 90%;
+  max-width: 300px;
+}
+
+.InputSignin {
+  color: #fff;
+  font-size: 0.9rem;
+  background-color: transparent;
+  width: 100%;
+  box-sizing: border-box;
+  padding-inline: 0.5em;
+  padding-block: 0.7em;
+  border: none;
+  border-bottom: var(--border-height) solid var(--border-before-color);
+}
+
+.InputBorder {
+  position: absolute;
+  background: var(--border-after-color);
+  width: 0%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  transition: 0.3s;
+}
+
+.InputSignin:hover {
+  background: var(--input-hovered-color);
+}
+
+.InputSignin:focus {
+  outline: none;
+}
+
+.InputSignin:focus~.InputBorder,
+.InputSignin:not(:placeholder-shown)~.InputBorder {
+  width: 100%;
+}
+
+.InputSignin::placeholder {
+  color: transparent;
+}
+
+
+.title {
+  font-size: 24px;
+}
+
+.signin button {
+  position: relative;
+  border: 0px;
+  width: 150px;
+  height: 30px;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+.container img {
+  display: none;
+  position: absolute;
+  width: 30px;
+  left: 15px;
+  animation: rotate 3s linear infinite;
+  z-index: 4;
+}
+
+.container {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}

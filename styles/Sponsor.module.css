@@ -1,0 +1,75 @@
+.section-title {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 34px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    padding: 8px 20px;
+    margin: 0;
+    background: #7c7c7c7d;
+    color: #FFD600;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 50px;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    background: linear-gradient(94.75deg, #d19a08, #fedb7e 27.6%, #eac460 50%, #d19a08 66.15%, #d19a08);
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.parentDiv {
+    /* margin-top: 10rem; */
+    width: calc(100% - 4rem);
+    height: fit-content;
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-bottom: 80px;
+}
+
+.Title {
+    font-size: 30px;
+    text-align: center;
+}
+
+.Card {
+    width: calc(300px - 2rem);
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: rgb(65, 65, 65);
+    padding: 1rem 1rem;
+    border-radius: 20px;
+    font-size: 20px;
+    box-shadow: 0px 0px 20px rgba(15, 53, 83, 0.651);
+}
+
+.Card img {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid rgb(151, 151, 151);
+    background-color: rgb(26, 25, 25);
+}
+
+.CardHolder {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 40px;
+    min-height: 60vh;
+}
+
+.Section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

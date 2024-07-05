@@ -1,0 +1,629 @@
+[
+    {
+        "Id": 1,
+        "EventName": "Smart City Evolution",
+        "Deptt": "PSIT",
+        "Date ": "25-Feb-2023",
+        "Time ": "9:30 AM - 12:30 PM",
+        "Venue": "N-14",
+        "Details": "Regional challenges and smart solutions",
+        "Url": "/image/poster/SmartCityEvolution.png"
+    },
+    {
+        "Id": 2,
+        "EventName": "Enigma: The Treasure Hunt",
+        "Deptt": "PSIT",
+        "Date ": "24-Feb-2023",
+        "Time ": "11:45 AM - 4:00 PM",
+        "Venue": "Q-31-32-33-34",
+        "Details": "Solve cryptic riddles and win treasure quest",
+        "Url": "/image/poster/Enigma.png"
+    },
+    {
+        "Id": 3,
+        "EventName": "Techno-Smith: The Ed Tech",
+        "Deptt": "PSIT",
+        "Date ": "24-Feb-2023 and 25-Feb-2023",
+        "Time ": "1:30 PM-3:30 PM",
+        "Venue": "AA-24",
+        "Details": "Engage with,learn, and transform the tech industry",
+        "Url": "/image/poster/Technosmith.png"
+    },
+    {
+        "Id": 4,
+        "EventName": "Code-A-Thon: The Hackathon",
+        "Deptt": "PSIT",
+        "Date ": "24-Feb-2023",
+        "Time ": "9:30 AM - 11:30 AM",
+        "Venue": "All Computer Labs",
+        "Details": "Hack your way to the top",
+        "Url": "/image/poster/CodeAThon.png"
+    },
+    {
+        "Id": 5,
+        "EventName": "Robothon 2k23: Tame the Machines",
+        "Deptt": "PSIT",
+        "Date ": "24-Feb-2023 and 25-Feb-2023",
+        "Time ": "11:45 AM - 4:00 PM",
+        "Venue": "Girls Basketball Court",
+        "Details": "Game of soccer will be depicted by robots. | Tricky paths will be laid about for the robots to follow. | It is the ultimate head to head combat between two finalist.",
+        "Url": "/image/poster/Robothon.png"
+    },
+    {
+        "Id": 6,
+        "EventName": "Srijan: The Innovative Minds",
+        "Deptt": "PSIT",
+        "Date ": "25-Feb-2023",
+        "Time ": "3:30 PM Onwards",
+        "Venue": "D-14",
+        "Details": "Present and explain the innovative technical solutions regarding border security,covid,ev,social problems.",
+        "Url": "/image/poster/Srajan.png"
+    },
+    {
+        "Id": 7,
+        "EventName": "Edifice: The Architectural Shoot",
+        "Deptt": "PSIT",
+        "Date ": "24-Feb-2023 and 25-Feb-2023",
+        "Time ": "9:30 AM onwards",
+        "Venue": "PSIT Campus",
+        "Details": "Buildings and sights of PSIT will be captured and the winning photographer will be given the price.",
+        "Url": "/image/poster/Edifice.png"
+    },
+    {
+        "Id": 8,
+        "EventName": "Brand Morgue",
+        "Deptt": "PSIT",
+        "Date ": "25-Feb-2023",
+        "Time ": "10:00 AM onwards",
+        "Venue": "T-48 New Building",
+        "Details": "Case Study of Dead Brands.",
+        "Url": "/image/poster/BrandMorgue.png"
+    },
+    {
+        "Id": 9,
+        "EventName": "Techinal Paper Presentaion",
+        "Deptt": "CSE",
+        "Date ": "24-Feb-2023",
+        "Time ": "2:00 PM - 4:00 PM",
+        "Venue": "A-31",
+        "Details": "Participants will have to choose a domain of interest while filling out the google form and prepare a research paper in that domain accordingly.Then they have to present the prepared paper on the event day to a panel of judges who will then score them to announce a winner at the end.",
+        "Url": "/image/poster/TechnicalPaper.png"
+    },
+    {
+        "Id": 10,
+        "EventName": "Web Wizard",
+        "Deptt": "CSE",
+        "Date ": "24-Feb-2023",
+        "Time ": "11:00 AM - 2:00 PM",
+        "Venue": "D-23-24",
+        "Details": "The participants have 60 minutes to develop a wireframe without utilising the internet in \"Round 1: Wireframe Creation Using Figma. They must produce a thorough wireframe that satisfies the specifications using their understanding of Figma and design abilities. Before starting the second round, participants take a little break.&nbsp;Round 2: Building a Home Page - Participants are given a concept to build a home page around, and they have 120 minutes to do it. They should use the wireframe produced in the first round as a template and add other design components, pictures, and content to produce a finished home page.Presentation: Contestants show off their creations to the audience and judges. The judges consider the work's design,",
+        "Url": "/image/poster/UIUX.png"
+    },
+    {
+        "Id": 11,
+        "EventName": "DALLEE-2",
+        "Deptt": "CSE",
+        "Date ": "24-Feb-2023",
+        "Time ": "11:30 AM - 2:00 PM",
+        "Venue": "D-21-22",
+        "Details": "Participants are given access to the Dalle-2 AI bot and 50 credit points. The competition consists of 3 rounds, each with a different theme and time limit (1 hour, 30 minutes, and 15 minutes) where they have to submit only 1 image. Participants use their words creatively to create an image using the Dalle-2 AI bot. Participants must use their credits and time efficiently to produce the best image possible. The competition will end with the participants submitting their final images, with the best image being selected based on the creative use of words, efficient use of credits, and overall quality of the image. There will be a gap between all the rounds so as to evaluate the images submitted.",
+        "Url": "/image/poster/Dallee2.png"
+    },
+    {
+        "Id": 12,
+        "EventName": "Brain Busters",
+        "Deptt": "CSE",
+        "Date ": "24-Feb-2023",
+        "Time ": "2:00 PM - 4:00 PM",
+        "Venue": "A-32",
+        "Details": "For the first round, we will divide participants into teams and task them with maintaining a sequence of words within a given time frame. In the teams, the chain game will be played and the last one to survive will win. The team members will compete with themselves and only one member will go to the next round. In the second round participants will be shown a tray full of elements which they will be shown for 30 secs and then in the next 1 min they will have to write all the elements they have seen in the tray. The final round will be a memorization challenge where participants will be required to recall the series of cards in a deck. Anyone who fails to do so will be eliminated and the top three participants with the best performance will be declared winners.",
+        "Url": "/image/poster/BrainBusters.png"
+    },
+    {
+        "Id": 13,
+        "EventName": "Hands on with ML",
+        "Deptt": "IT",
+        "Date ": "25-Feb-2023",
+        "Time ": "11:00AM-12:30PM",
+        "Venue": "L-32",
+        "Details": "The main motive of this event is to intoduce students with uprising technologies(Machine learning , Image classification).The registeration fee is only 100 - Participants are expected to reach on time and maintain the civility of the event. During the workshop , no mobiles phones should be used or else he she will not be allowed to attend workshop. Total time will be of 100 minutes. There will 10 tasks in total, participants first need to attend the workshop properly and understand and then require to perform all the tasks by their own and this is how winner will be selected. This is definetely going to add a value to their resume as well and knowledge. They must come with a pen and notebook. References to deep learning , Image classification will be provided to them as an e-book. Participation certificates will be given to all. ",
+        "Url": "/image/poster/HandsOnWithML.png"
+    },
+    {
+        "Id": 14,
+        "EventName": "Fun with IOT hands On -Robotics Implementation",
+        "Deptt": "IT",
+        "Date ": "24-Feb-2023",
+        "Time ": "11:00AM-12:30PM",
+        "Venue": "L-32",
+        "Details": " The prime reason of this event is to introduce students with the latest technology , ie , Internet of things ( Arduino , robotics and many more ) .  Participants are expected to reach the venue on time and has to maintain the decorum of the event .  Participants are not allowed to use their mobile phones during the workshop ; if found he she will not be allowed to attend the workshop .  The participants who will attend the workshop properly and successfully complete all the task will earn wonderful prizes and certificates .  Participation certificates will be provided to all .",
+        "Url": "/image/poster/FunWithIOT.png"
+    },
+    {
+        "Id": 15,
+        "EventName": "Poster Presentation",
+        "Deptt": "IT",
+        "Date ": "25-Feb-2023",
+        "Time ": "1:30:00 PM-3:00PM",
+        "Venue": "L24",
+        "Details": " This presentation will be of 100 minutes and this event will be conducted in L24.  During this competition participants are not allowed to use their smart phones. Participants has to make their own presentation without any help. If found guilty he she will be disqualified.  Poster Presentation topics will be provided by us and participants has to choose among the given topics.  Participants are expected to reach the venue on time. As no extra time will be provided to them.  Participants has to maintain the decorum of the event and they have to bring their own stationary items as it will not be provided by the college. Only 1 drawing sheet will be alloted to each participant so they have to use their provided drawing sheets very carefully as no extra sheet will be provided to them.  Participant who will make the best Poster and present it will win wonderful prizes and certificates which will add value to their resume. ",
+        "Url": "/image/poster/PosterPresentationIT.png"
+    },
+    {
+        "Id": 16,
+        "EventName": "Minute to Minute",
+        "Deptt": "IT",
+        "Date ": "24-Feb-2023",
+        "Time ": "1:30:00 PM-3:00PM",
+        "Venue": "L-24",
+        "Details": "This event will be of 15-20 minutes and this event will be conducted in L-23.  Participants are expected to reach the venue on time.  During this competition participants are not allowed to use their smart phones.  Any unfair means should not be allowed if someone caught doing, the person will be disqualified and detained from the event and no refund will be given.  The participant has to carry his her set of articles like a pen and notebook with them.  The problems given to participants are related to mind games, puzzles, codes to debug, riddles, logical sequences, current affairs related to general knowledge, etc.  Logical thinking event for students to complete in time given to them.  Those who complete in less time than others will be taken as winners.  Participation Certificate will be provided.",
+        "Url": "/image/poster/MinuteToMinute.png"
+    },
+    {
+        "Id": 17,
+        "EventName": "Kaun Banega Conqueror (Thanos Coding Ladder Challange)",
+        "Deptt": "CS COE",
+        "Date ": "24-Feb-2023",
+        "Time ": "10:00AM-1:00PM",
+        "Venue": "P-21-22",
+        "Details": "The competition is about knowing the most number of technology & programming languages.",
+        "Url": "/image/poster/KBCCODING.png"
+    },
+    {
+        "Id": 18,
+        "EventName": "DevOManiacs",
+        "Deptt": "CS COE",
+        "Date ": "25-Feb-2023",
+        "Time ": "9:45AM-1:00PM",
+        "Venue": "N-24",
+        "Details": "This challenge includes the building of a project based on any Tech stack that is preferred by the teams.",
+        "Url": "/image/poster/DevOManiacs.png"
+    },
+    {
+        "Id": 19,
+        "EventName": "DigiPicasso",
+        "Deptt": "CS COE",
+        "Date ": "25-Feb-2023",
+        "Time ": "2:30PM-4:00PM",
+        "Venue": "K-24",
+        "Details": "The challenge will be based on the theme. The team will design a digital artwork with Any technology, be it Artificial Intelligence or Digital Artwork tools.",
+        "Url": "#"
+    },
+    {
+        "Id": 20,
+        "EventName": "Software Injection",
+        "Deptt": "CS COE",
+        "Date ": "24-Feb-2023",
+        "Time ": "2:00PM -3:30PM",
+        "Venue": "P-21-22",
+        "Details": "Will provide the software on the spot to the contestants along with some quick briefings and walkthroughs.",
+        "Url": "/image/poster/SoftwareInjection.png"
+    },
+    {
+        "Id": 21,
+        "EventName": "Kaun Banega thee Sharks of PSIT",
+        "Deptt": "MCA",
+        "Date ": "24-Feb-2023",
+        "Time ": "1:25 PM - 3:05 PM",
+        "Venue": "K-33",
+        "Details": " This event is group based concept of pitching and bidding where every team(of max size 5) will be judged as a unique contestant based upon there innovative or real life problem solving startup or project ideas.(with presentation).  Every team will get a purse balance of 100 coins in starting and they will have to bid some coins to the pitching team. Winning will be based on the max purse value left with team and to the other team who bidded the most to winning team. Every one will get participation certificate.",
+        "Url": "/image/poster/KonBanegaSharkOfPsit.jpg"
+    },
+    {
+        "Id": 22,
+        "EventName": "The Shining Sign",
+        "Deptt": "MCA",
+        "Date ": "25-Feb-2023",
+        "Time ": "9:30 PM - 11:30 PM",
+        "Venue": "K-14",
+        "Details": " The event will be 2 round.  In first round the participant have to design logo and solgan based on psit and ignitia theme.  In second round there will be a quiz based on company logo.  The participants have to create the logo on spot.  Top 3 teams will move to 2nd round.  No internet facility and downloading picture is allowed.  Decision is taken by concerned faculty.  There will be participation certificate for all.  Particant must bring there own laptop.",
+        "Url": "/image/poster/TheShinningSignWithIQ.jpg"
+    },
+    {
+        "Id": 23,
+        "EventName": "The Cyber Smart : CTF event",
+        "Deptt": "BCA",
+        "Date ": "24-Feb-2023",
+        "Time ": "10:00AM-11:00AM",
+        "Venue": "109-111",
+        "Details": "GUIDELINES :- *In this event, the participants will be given an on spot topic and they'll have to showcase their skills in editing and animation. They'll have to create a video within the given time-period. *The event is divided into 3 rounds and after each round some of the participants will get eliminated on the basis of their scores.Judges will be giving scores to every participant. *Different rounds will have a new challenge for the participant which they'll have to clear before going to the next round. Topics would be like -EDUCATIONAL,SOCIAL,ADVERTISEMENT,FUNNY,etc.        ",
+        "Url": "/image/poster/TheCyberSmart.png"
+    },
+    {
+        "Id": 24,
+        "EventName": "TTM : The Tech Millionaire",
+        "Deptt": "BCA",
+        "Date ": "25-Feb-2023",
+        "Time ": "10:00AM-2:00PM",
+        "Venue": "G-19",
+        "Details": "",
+        "Url": "/image/poster/TheTechMillionaire.png"
+    },
+    {
+        "Id": 25,
+        "EventName": "Cartoon Carnival",
+        "Deptt": "BCA",
+        "Date ": "24-Feb-2023",
+        "Time ": "10:00AM-11:00AM",
+        "Venue": "109-111",
+        "Details": "GUIDELINES :- *In this event, the participants will be given an on spot topic and they'll have to showcase their skills in editing and animation. They'll have to create a video within the given time-period. *The event is divided into 3 rounds and after each round some of the participants will get eliminated on the basis of their scores.Judges will be giving scores to every participant. *Different rounds will have a new challenge for the participant which they'll have to clear before going to the next round. Topics would be like -EDUCATIONAL,SOCIAL,ADVERTISEMENT,FUNNY,etc.        ",
+        "Url": "/image/poster/CartoonCarnival.png"
+    },
+    {
+        "Id": 29,
+        "EventName": "Quiz Mania",
+        "Deptt": "ECE",
+        "Date ": "24-Feb-2023",
+        "Time ": "1:30 PM",
+        "Venue": "SH-2",
+        "Details": " There will be three rounds in total.  Round 1 and 2 will be elimination rounds  Negative marking will be done in round 1 only.",
+        "Url": "/image/poster/QuizMania.jpg"
+    },
+    {
+        "Id": 30,
+        "EventName": "Circuit Mania",
+        "Deptt": "ECE",
+        "Date ": "25-Feb-2023",
+        "Time ": "11:00 AM",
+        "Venue": "J-33",
+        "Details": " There will be two rounds:1.Technical Quiz,2.Circuit War.  Maximum 3 members are allowed in a team.  Each member should carry their id.  Phones,smart watches and any writing material is prohibited.  Required equipments will be provided.",
+        "Url": "/image/poster/CircuitMania.jpg"
+    },
+    {
+        "Id": 31,
+        "EventName": "Drishya (Poster Presentation)",
+        "Deptt": "ECE",
+        "Date ": "25-Feb-2023",
+        "Time ": "11:00 AM",
+        "Venue": "J-33",
+        "Details": " A poster presentation usually includes two elements: a poster. a brief verbal explanation of the poster content or topic. You should introduce your poster presentation with a 1 Minute Pitch on a given theme",
+        "Url": "/image/poster/PosterPresentation.jpg"
+    },
+    {
+        "Id": 32,
+        "EventName": "RC Plane",
+        "Deptt": "ME",
+        "Date ": "24-Feb-2023",
+        "Time ": "10:00-12:30 AM",
+        "Venue": "In front of R Block",
+        "Details": "A radio-controlled aircraft (often called RC aircraft or RC plane) is a small flying machine that is controlled remotely by an operator on the ground using a hand-held radio transmitter. The transmitter continuously communicates with a receiver within the craft that sends signals to servomechanisms (servos) which move the control surfaces based on the position of joysticks on the transmitter. The control surfaces, in turn, directly affect the orientation of the plane.",
+        "Url": "/image/poster/RCPlane.jpg"
+    },
+    {
+        "Id": 33,
+        "EventName": "JUNK YARD WAR",
+        "Deptt": "ME",
+        "Date ": "25-Feb-2023",
+        "Time ": "2:00-4:00",
+        "Venue": "In front of R Block",
+        "Details": "Clear trash from the junkyard and recycle it into valuable resources while holding off waves of your competitor's army trying to make a valuabe item",
+        "Url": "/image/poster/JunkYardWar.jpg"
+    },
+    {
+        "Id": 34,
+        "EventName": "BRIDGE MAKING COMPETITION",
+        "Deptt": "CE",
+        "Date ": "24-Feb-2023",
+        "Time ": "10:00 AM - 12:30 PM",
+        "Venue": "In tentage (Workshop ground behind M-Block )",
+        "Details": "Team with 1-4 members including leader will be given2 hours for model making and 1 hour for sticking of the model.Required materials will be provided.Winners and runner ups will be decided on the basis of load carrying capacity and deflection of the model.",
+        "Url": "/image/poster/BRIDGEMAKINGCOMPETITION.png"
+    },
+    {
+        "Id": 35,
+        "EventName": "BUILDING PLANNING AND LAYOUT",
+        "Deptt": "CE",
+        "Date ": "24-Feb-2023",
+        "Time ": "02:00 PM- 03:30 PM",
+        "Venue": "Building material lab and open ground near workshop",
+        "Details": "Groups with 1-3 members including leader will be given 1.5 hous to complete the task. Required materials will be provided on spot.Based on accuracy , the winner and runner-up will be rewarded.",
+        "Url": "/image/poster/BUILDINGPLANNINGANDLAYOUT.png"
+    },
+    {
+        "Id": 36,
+        "EventName": "BRIDGE HYDRAULIC JACK",
+        "Deptt": "CE",
+        "Date ": "25-Feb-2023",
+        "Time ": "10:00 AM - 12:30 PM",
+        "Venue": "In tentage (Workshop ground behind M-Block )",
+        "Details": "Group with 1-3 members including leader will be given 2.5 hours to complete the task. Required materials will be provided on spot.Based on accuracy and load bearing capacity, winner and runner up will be rewarded.",
+        "Url": "/image/poster/BRIDGEHYDRAULICJACK.png"
+    },
+    {
+        "Id": 37,
+        "EventName": "Launch Pad",
+        "Deptt": "PHARM",
+        "Date ": "24-Feb-2023",
+        "Time ": "10 AM to 1 PM",
+        "Venue": "E Block",
+        "Details": "Launch Pad is a contest where students get opportunity to pitch their voracious vision or business idea to a panel in the hope of winning a cash prize or investment capital. Participants have the opportunity to develop a plan to present an idea of their own making and present a pitch for a new and innovative product, service or venture.",
+        "Url": "#"
+    },
+    {
+        "Id": 38,
+        "EventName": "Avinya",
+        "Deptt": "PHARM",
+        "Date ": "25-Feb-2023",
+        "Time ": "10 AM to 1 PM",
+        "Venue": "E Block",
+        "Details": "In this event participants are going to use their creative ideas on existing  product as a result  enhancing  features of existing product or implementing new functionalities. In this event participant will aim to provide more value to existing  product.",
+        "Url": "#"
+    },
+    {
+        "Id": 39,
+        "EventName": "Cell Maniac",
+        "Deptt": "PHARM",
+        "Date ": "24-Feb-2023",
+        "Time ": "2 PM to 5 PM",
+        "Venue": "G Block",
+        "Details": "Cell maniac, is an event in which participants will showcase their ability to explain about a given product.The event will examine the product and technical sense of participant along with their marketing knowledge.This event will also assess the creativity and analytical skills of all the participants.\"",
+        "Url": "#"
+    },
+    {
+        "Id": 40,
+        "EventName": "Young scientists and innovation(Chart or poster presentation)",
+        "Deptt": "PHARM",
+        "Date ": "25-Feb-2023",
+        "Time ": "10 AM to 1 PM",
+        "Venue": "G Block",
+        "Details": "Innovative Posters, is an event in which candidates will be assessed on basis of their presentation skills.This event will provide a stage to all participants to show case their knowledge in their respective research or area of interest as well as their professional attitude.This event will assess the creativity and encourage the discussion regarding the related topic of presentation.\"",
+        "Url": "#"
+    },
+    {
+        "Id": 41,
+        "EventName": "Marketing Lingo",
+        "Deptt": "PHARM",
+        "Date ": "25-Feb-2023",
+        "Time ": "2 PM to 5 PM",
+        "Venue": "G Block",
+        "Details": "Marketing lingo is an event in which &nbsp;Students will present their marketing expertise and showcase their skills. In this event students will be encouraged to use their critical thinking skills and come up with original ways to advertise their products .",
+        "Url": "#"
+    },
+    {
+        "Id": 42,
+        "EventName": "Scrabilia",
+        "Deptt": "MBA & Maverick",
+        "Date ": "24-Feb-2023",
+        "Time ": "2:00 PM- 4:00 PM",
+        "Venue": "T-48",
+        "Details": "In Scrabble Game, Business Name , Organisation Name, Brands Name & Tagline and Product & Services Name is going to be included. The goal of Scrabble is to earn the You earn points by spelling words with letter tiles. There all sorts of strategies you can use\u2014for example, you can spell words with high value letters like \u201cQ\u201d and \u201cZ\u201d (both of which are worth 10 points each), or you can earn an enormous amount of points by placing letter tiles on big-ticket \u201cPremium Squares,\u201d like Triple Letter Bonuses or even Triple Word Bonuses. If you love creativity and showing off your vocabulary, then this is definitely the board game for you.highest score by the end of the game.",
+        "Url": "#"
+    },
+    {
+        "Id": 43,
+        "EventName": "Every penny counts",
+        "Deptt": "MBA & Maverick",
+        "Date ": "25-Feb-2023",
+        "Time ": "2:00 PM- 4:00 PM",
+        "Venue": "T-48",
+        "Details": "'Every Penny Counts' is an interesting, fun competition that involves sale of a product by the participants.",
+        "Url": "#"
+    },
+    {
+        "Id": 44,
+        "EventName": "Poster Presentation -Tourism oriented",
+        "Deptt": "MBA & tourism",
+        "Date ": "25-Feb-2023",
+        "Time ": "12:00 PM - 2:00 PM",
+        "Venue": "4th &5th Floor PSIT Tower",
+        "Details": "Students need to showcase their skills on the tourism sector with poster.",
+        "Url": "#"
+    },
+    {
+        "Id": 45,
+        "EventName": "Ad Mania ( Nukkad Natak)",
+        "Deptt": "MBA & tourism",
+        "Date ": "24-Feb-2023",
+        "Time ": "10:00 AM - 12:00 PM",
+        "Venue": "Basket Ball Ground Boys Hostel C",
+        "Details": "Students need to showcase their skills on the tourism sector with the help of the advertising strategy",
+        "Url": "#"
+    },
+    {
+        "Id": 46,
+        "EventName": "TRIM & TUNE",
+        "Deptt": "Ingenious",
+        "Date ": "24-Feb-2023 & 25-Feb-2023",
+        "Time ": "10:00 am to 3:00 pm",
+        "Venue": "Ground -Stall",
+        "Details": "Trim & Tune is a Video Editing contest where candidates will be provided with raw videos and they'll be asked to edit the video and use a non copyright track , edms, or any kind of music of their choice .Also they can go through the campus and create a small video of 30 to 60 seconds on a theme which will be provided on the spot .",
+        "Url": "/image/poster/TRIM&TUNE.jpg"
+    },
+    {
+        "Id": 47,
+        "EventName": "STUDIO MACRO - THE MICS OF FALL(OPEN MIC)",
+        "Deptt": "Ingenious",
+        "Date ": "24-Feb-2023 & 25-Feb-2023",
+        "Time ": "10:00 am to 3:00 pm",
+        "Venue": "Ground -Stall",
+        "Details": "Studio Macro is a photoshoot event which is all about capturing beautiful moments by our professional photographers . Mics of Fall is a fun -focussed event wherein individual perform their arts like singing , poetry , stand up comic etc. ",
+        "Url": "/image/poster/OPENMIC.jpg"
+    },
+    {
+        "Id": 48,
+        "EventName": "Retrogade",
+        "Deptt": "Ingenious",
+        "Date ": "24-Feb-2023 & 25-Feb-2023",
+        "Time ": "10:00 am to 3:00 pm",
+        "Venue": "Ground -Stall",
+        "Details": "Retrogade is a competitive event amongst passionate photographers who want to showcase their skills in street photography and later all the photographers who took part in the event must submit their photos which whould be portraying some aesthetic vibes.",
+        "Url": "/image/poster/Retrogade.jpg"
+    },
+    {
+        "Id": 49,
+        "EventName": "Speakathon",
+        "Deptt": "BSH",
+        "Date ": "24-Feb-2023",
+        "Time ": "9:30-11:00 am",
+        "Venue": "SH1",
+        "Details": "In a re-invented version of musical chair, oddball particiapnts will be paired up against one another, and will be asked to converse on the \"First word Last Word\" pattern. Any participant who takes more than 5 seconds to initiate thir reply is out of the game. The process of elimination continues till last participant standing. ",
+        "Url": "#"
+    },
+    {
+        "Id": 50,
+        "EventName": "Spelling Bee",
+        "Deptt": "BSH",
+        "Date ": "24-Feb-2023",
+        "Time ": "12:00-3:00pm",
+        "Venue": "SH1",
+        "Details": "Students will listen to a word and write down in correct spelling [Round 1; Students will be shown a spelling and asked to pronounce the same correctly [Round 2]",
+        "Url": "/image/poster/spellbee.png"
+    },
+    {
+        "Id": 51,
+        "EventName": "Jigsong",
+        "Deptt": "BSH",
+        "Date ": "25-Feb-2023",
+        "Time ": "9:30-11:00am",
+        "Venue": "SH1",
+        "Details": "An English soundtrack will be played for 30 seconds, and the participant will have to recall and write down the lyrics in 1 minute. ",
+        "Url": "#"
+    },
+    {
+        "Id": 52,
+        "EventName": "Turncoats - Elocution",
+        "Deptt": "BSH",
+        "Date ": "25-Feb-2023",
+        "Time ": "12:30-3:00 pm",
+        "Venue": "SH1",
+        "Details": "Students will be given an extempore topic and will have to speak for an against for 30-40 seconds each.",
+        "Url": "/image/poster/Turncoats.png"
+    },
+    {
+        "Id": 53,
+        "EventName": "Poster making / Poster presentation",
+        "Deptt": "Prayas",
+        "Date ": "24-Feb-2023",
+        "Time ": "10:30- 12:30",
+        "Venue": "J-33",
+        "Details": "Poster making rules  1. Topic will be given by our team on the spot. 1. Best 3 poster that conveys best message will be awarded prize. 2.Each team should be having 2 members. 3. Participation certificate will be provided to all the participants. 4. Required Stationary will be provided.",
+        "Url": "#"
+    },
+    {
+        "Id": 54,
+        "EventName": "Talent Show",
+        "Deptt": "Prayas",
+        "Date ": "25-Feb-2023",
+        "Time ": "10:30- 12:30",
+        "Venue": "round 1 require open space while round 2 require computer lab",
+        "Details": "1.Muscle mania  Round 1: All students perform as many pushups and squat jumps as they can in 1 minute. The students who complete fewer than a predetermined number of squat jumps (e. g. , 10) and push ups will be eliminated.  Round 2: All remaining students perform a circuit of pushups, squat jumps, burpees . They must complete 20 pushups, 20 squat jumps, and 20 burpees. The winners move on to the next round, and the losers are eliminated. In case if there are more no. of students than we gone a increase the no of rep for each exercise. Gaming Glory- 1.Round 1: All players play a qualifying round (a full game, or a specific portion of the game) against each other. The player with the lowest score or performance is eliminated. 2.Round 2: The remaining players compete in a new qualifying round. The player with the lowest score or performance is eliminated. 3.Round 3: The remaining players compete in a semifinal round, which consists of a different game or challenge that is related to the original game. For example, if the original game was a racing game, the semifinal could be a time trial challenge. The player with the lowest score or performance is eliminated. 4.Round 4: The remaining players compete in a final round, which consists of the most challenging and competitive game or challenge yet. The winner of this round is declared the champion of the tournament. 3.Round 3: The remaining students must compete in arm wrestling matches in pairs. The winners move on to the next round, and the losers are eliminated. Of course, safety should be a top priority, and it's important to ensure that students warm up properly and use correct form while performing the exercises. For the arm wrestling matches, it's important to set rules to ensure that students don't injure themselves, such as having a referee to monitor the matches and ensuring that students use correct technique.",
+        "Url": "#"
+    },
+    {
+        "Id": 55,
+        "EventName": "Screen Faceoff-Documentary on Environmental issues",
+        "Deptt": "Prayas",
+        "Date ": "24-Feb-2023",
+        "Time ": "1.30-3.30pm",
+        "Venue": "Room No.122 PSIT-CHE Building",
+        "Details": "Competition is about shooting original video with narration addressing the environmental issues in the society.",
+        "Url": "#"
+    },
+    {
+        "Id": 56,
+        "EventName": "Talk up show-NIKKI KUMAR JHA",
+        "Deptt": "IoT Club",
+        "Date ": "25-Feb-2023",
+        "Time ": "10:00 Am - 11:00 Am",
+        "Url": "#"
+    },
+    {
+        "Id": 59,
+        "EventName": "A workshop on Micro-satellite/Drone",
+        "Deptt": "Aryabhatt Club",
+        "Venue": "Ground",
+        "Url": "/image/poster/Drone.png"
+    },
+    {
+        "Id": 60,
+        "EventName": "Membership drive and its benefit for the student and faculty(A student and faculty development program IEEE),Sensor kit demonstration/Look and Hook",
+        "Deptt": "Aryabhatt Club",
+        "Venue": "Tent",
+        "Url": "/image/poster/Look&Hook.png"
+    },
+    {
+        "Id": 61,
+        "EventName": "Wordopoly",
+        "Deptt": "Aryabhatt Club",
+        "Venue": "Lab",
+        "Url": "/image/poster/Wordopoly.png"
+    },
+    {
+        "Id": 62,
+        "EventName": "Twisty Tortoise",
+        "Deptt": "Aryabhatt Club",
+        "Venue": "GROUND and Cycles",
+        "Url": "/image/poster/TwistyTortoise.png"
+    },
+    {
+        "Id": 63,
+        "EventName": "Logically Valid",
+        "Deptt": "Aryabhatt Club",
+        "Venue": "Lab",
+        "Url": "/image/poster/LogicallyValid.png"
+    },
+    {
+        "Id": 66,
+        "EventName": "Dance",
+        "Deptt": "Navrang",
+        "Venue": "Rangmanch stage(open stage)",
+        "Details": "Students need to show their talent about various dance form in solo ,duet and group",
+        "Url": "/image/poster/Dance.jpg"
+    },
+    {
+        "Id": 67,
+        "EventName": "Singing",
+        "Deptt": "Navrang",
+        "Venue": "Rangmanch stage(open stage)",
+        "Details": "Students will participate to demonstrate their singing skills to a jury and a public audience.",
+        "Url": "/image/poster/Singing.jpg"
+    },
+    {
+        "Id": 68,
+        "EventName": "Drama",
+        "Deptt": "Navrang",
+        "Venue": "Rangmanch stage(open stage)",
+        "Details": "A brief comic sketch or burlesque will show the talent of students .",
+        "Url": "/image/poster/Drama.png"
+    },
+    {
+        "Id": 69,
+        "EventName": "Meri Kahani: A Story Creation Competition",
+        "Deptt": "BBA",
+        "Date ": "25-Feb-2023",
+        "Time ": "9.30-11.30am",
+        "Venue": "G 23 PSIT-CHE Building",
+        "Details": "Students have to make a story based on the pictures shown to them.",
+        "Url": "/image/poster/MeriKahani.jpg"
+    },
+    {
+        "Id": 70,
+        "EventName": "Block Building Games: A Team Building Game",
+        "Deptt": "BBA",
+        "Date ": "24-Feb-2023",
+        "Time ": "9.30-11.30am",
+        "Venue": "outdoor",
+        "Details": "4-5 participants will be helping their blindfolded team member to stack a set of blocks",
+        "Url": "/image/poster/BlockBuildingGames.png"
+    },
+    {
+        "Id": 71,
+        "EventName": "Adpro Reels: A Product Promotion Competition",
+        "Deptt": "BBA",
+        "Date ": "25-Feb-2023",
+        "Time ": "1.30-3.30",
+        "Venue": "G11- G18 PSIT-CHE Building",
+        "Details": "Participants have to make fascinating product and advertisement reels using their creativity and brainstorming",
+        "Url": "/image/poster/AdproReels.png"
+    },
+    {
+        "Id": 72,
+        "EventName": "Opinionators: The Debate Competition",
+        "Deptt": "Law",
+        "Date ": "24-Feb-2023",
+        "Time ": "9.30-11.30",
+        "Venue": "Room No. 118 PSIT-CHE Building",
+        "Details": "Individual Participant has t present their critical thinking and persuasive argumenting skill on diverse societical perspectives.",
+        "Url": "/image/poster/Opinionators.png"
+    }
+]
